@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\bin\Debug\2024_10_03_Rejtveny.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\bin\Debug\2024_10_03_Rejtveny.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\bin\Debug\2024_10_03_Rejtveny.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\obj\Debug\2024_10_03_Rejtveny.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\obj\Debug\2024_10_03_Rejtveny.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\obj\Debug\2024_10_03_Rejtveny.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_03_Rejtveny\2024_10_03_Rejtveny\obj\Debug\2024_10_03_Rejtveny.pdb

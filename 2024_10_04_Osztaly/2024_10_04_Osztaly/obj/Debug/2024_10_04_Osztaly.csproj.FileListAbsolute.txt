@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\bin\Debug\2024_10_04_Osztaly.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\bin\Debug\2024_10_04_Osztaly.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\bin\Debug\2024_10_04_Osztaly.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\obj\Debug\2024_10_04_Osztaly.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\obj\Debug\2024_10_04_Osztaly.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\obj\Debug\2024_10_04_Osztaly.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_04_Osztaly\2024_10_04_Osztaly\obj\Debug\2024_10_04_Osztaly.pdb

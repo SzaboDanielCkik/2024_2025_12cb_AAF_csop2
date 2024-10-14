@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\bin\Debug\2024_10_10_Doga1Megoldas.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\bin\Debug\2024_10_10_Doga1Megoldas.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\bin\Debug\2024_10_10_Doga1Megoldas.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\obj\Debug\2024_10_10_Doga1Megoldas.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\obj\Debug\2024_10_10_Doga1Megoldas.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\obj\Debug\2024_10_10_Doga1Megoldas.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_10_Doga1Megoldas\2024_10_10_Doga1Megoldas\obj\Debug\2024_10_10_Doga1Megoldas.pdb

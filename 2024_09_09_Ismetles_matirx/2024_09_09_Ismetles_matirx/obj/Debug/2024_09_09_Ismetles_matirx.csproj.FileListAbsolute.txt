@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\bin\Debug\2024_09_09_Ismetles_matirx.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\bin\Debug\2024_09_09_Ismetles_matirx.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\bin\Debug\2024_09_09_Ismetles_matirx.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\obj\Debug\2024_09_09_Ismetles_matirx.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\obj\Debug\2024_09_09_Ismetles_matirx.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\obj\Debug\2024_09_09_Ismetles_matirx.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_09_Ismetles_matirx\2024_09_09_Ismetles_matirx\obj\Debug\2024_09_09_Ismetles_matirx.pdb

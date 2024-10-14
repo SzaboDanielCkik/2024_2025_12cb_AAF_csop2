@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\bin\Debug\2024_09_19_Gyakorlas.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\bin\Debug\2024_09_19_Gyakorlas.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\bin\Debug\2024_09_19_Gyakorlas.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_19_Gyakorlas\2024_09_19_Gyakorlas\obj\Debug\2024_09_19_Gyakorlas.pdb

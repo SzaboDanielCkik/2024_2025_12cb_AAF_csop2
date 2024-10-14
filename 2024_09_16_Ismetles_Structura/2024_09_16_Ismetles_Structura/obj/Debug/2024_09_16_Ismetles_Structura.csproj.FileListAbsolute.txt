@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\bin\Debug\2024_09_16_Ismetles_Structura.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\bin\Debug\2024_09_16_Ismetles_Structura.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\bin\Debug\2024_09_16_Ismetles_Structura.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\obj\Debug\2024_09_16_Ismetles_Structura.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\obj\Debug\2024_09_16_Ismetles_Structura.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\obj\Debug\2024_09_16_Ismetles_Structura.exe
+H:\2024-2025\12.cb AAF 2csop\2024_09_16_Ismetles_Structura\2024_09_16_Ismetles_Structura\obj\Debug\2024_09_16_Ismetles_Structura.pdb

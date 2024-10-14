@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_10_Doga1Megoldas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9A73D-7C0B-4D33-9446-9119A344C93B}|2024_10_10_Doga1Megoldas\\2024_10_10_Doga1Megoldas.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_10_10_doga1megoldas\\2024_10_10_doga1megoldas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9A73D-7C0B-4D33-9446-9119A344C93B}|2024_10_10_Doga1Megoldas\\2024_10_10_Doga1Megoldas.csproj|solutionrelative:2024_10_10_doga1megoldas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_10_Doga1Megoldas\\2024_10_10_Doga1Megoldas\\Program.cs",
+              "RelativeDocumentMoniker": "2024_10_10_Doga1Megoldas\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_10_Doga1Megoldas\\2024_10_10_Doga1Megoldas\\Program.cs",
+              "RelativeToolTip": "2024_10_10_Doga1Megoldas\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:54:23.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

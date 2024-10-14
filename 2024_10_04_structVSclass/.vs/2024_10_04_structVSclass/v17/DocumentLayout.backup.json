@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_04_structVSclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DB6613-FE1C-42D0-BD39-5D93D9950DDC}|2024_10_04_structVSclass\\2024_10_04_structVSclass.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_10_04_structvsclass\\2024_10_04_structvsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DB6613-FE1C-42D0-BD39-5D93D9950DDC}|2024_10_04_structVSclass\\2024_10_04_structVSclass.csproj|solutionrelative:2024_10_04_structvsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_04_structVSclass\\2024_10_04_structVSclass\\Program.cs",
+              "RelativeDocumentMoniker": "2024_10_04_structVSclass\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_10_04_structVSclass\\2024_10_04_structVSclass\\Program.cs*",
+              "RelativeToolTip": "2024_10_04_structVSclass\\Program.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:05:01.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
