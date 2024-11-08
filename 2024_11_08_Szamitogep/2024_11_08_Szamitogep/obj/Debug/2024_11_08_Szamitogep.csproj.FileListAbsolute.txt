@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\bin\Debug\2024_11_08_Szamitogep.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\bin\Debug\2024_11_08_Szamitogep.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\bin\Debug\2024_11_08_Szamitogep.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\obj\Debug\2024_11_08_Szamitogep.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\obj\Debug\2024_11_08_Szamitogep.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\obj\Debug\2024_11_08_Szamitogep.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_08_Szamitogep\2024_11_08_Szamitogep\obj\Debug\2024_11_08_Szamitogep.pdb

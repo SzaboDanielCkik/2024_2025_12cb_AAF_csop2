@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\bin\Debug\2024_11_04_HaromszogOsztaly.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\bin\Debug\2024_11_04_HaromszogOsztaly.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\bin\Debug\2024_11_04_HaromszogOsztaly.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\obj\Debug\2024_11_04_HaromszogOsztaly.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\obj\Debug\2024_11_04_HaromszogOsztaly.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\obj\Debug\2024_11_04_HaromszogOsztaly.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_04_HaromszogOsztaly\2024_11_04_HaromszogOsztaly\obj\Debug\2024_11_04_HaromszogOsztaly.pdb

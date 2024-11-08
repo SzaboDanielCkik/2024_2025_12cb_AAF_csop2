@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\bin\Debug\2024_10_18_Cseveges.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\bin\Debug\2024_10_18_Cseveges.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\bin\Debug\2024_10_18_Cseveges.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\obj\Debug\2024_10_18_Cseveges.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\obj\Debug\2024_10_18_Cseveges.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\obj\Debug\2024_10_18_Cseveges.exe
+H:\2024-2025\12.cb AAF 2csop\2024_10_18_Cseveges\2024_10_18_Cseveges\obj\Debug\2024_10_18_Cseveges.pdb
