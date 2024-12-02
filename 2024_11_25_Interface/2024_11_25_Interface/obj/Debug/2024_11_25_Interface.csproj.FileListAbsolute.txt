@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\bin\Debug\2024_11_25_Interface.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\bin\Debug\2024_11_25_Interface.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\bin\Debug\2024_11_25_Interface.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\obj\Debug\2024_11_25_Interface.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\obj\Debug\2024_11_25_Interface.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\obj\Debug\2024_11_25_Interface.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_25_Interface\2024_11_25_Interface\obj\Debug\2024_11_25_Interface.pdb

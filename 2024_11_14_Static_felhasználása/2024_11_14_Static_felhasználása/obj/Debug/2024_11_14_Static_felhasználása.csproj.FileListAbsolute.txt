@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\bin\Debug\2024_11_14_Static_felhasználása.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\bin\Debug\2024_11_14_Static_felhasználása.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\bin\Debug\2024_11_14_Static_felhasználása.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\obj\Debug\2024_11_14_Static_felhasználása.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\obj\Debug\2024_11_14_Static_felhasználása.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\obj\Debug\2024_11_14_Static_felhasználása.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_14_Static_felhasználása\2024_11_14_Static_felhasználása\obj\Debug\2024_11_14_Static_felhasználása.pdb

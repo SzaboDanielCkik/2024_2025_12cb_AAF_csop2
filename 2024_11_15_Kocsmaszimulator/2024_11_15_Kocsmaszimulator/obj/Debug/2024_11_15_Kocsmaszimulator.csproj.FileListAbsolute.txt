@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\bin\Debug\2024_11_15_Kocsmaszimulator.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\bin\Debug\2024_11_15_Kocsmaszimulator.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\bin\Debug\2024_11_15_Kocsmaszimulator.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\obj\Debug\2024_11_15_Kocsmaszimulator.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\obj\Debug\2024_11_15_Kocsmaszimulator.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\obj\Debug\2024_11_15_Kocsmaszimulator.exe
+H:\2024-2025\12.cb AAF 2csop\2024_11_15_Kocsmaszimulator\2024_11_15_Kocsmaszimulator\obj\Debug\2024_11_15_Kocsmaszimulator.pdb

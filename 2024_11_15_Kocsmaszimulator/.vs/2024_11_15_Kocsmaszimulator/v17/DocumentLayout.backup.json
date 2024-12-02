@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_15_kocsmaszimulator\\2024_11_15_kocsmaszimulator\\kocsmaros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|solutionrelative:2024_11_15_kocsmaszimulator\\kocsmaros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_15_kocsmaszimulator\\2024_11_15_kocsmaszimulator\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|solutionrelative:2024_11_15_kocsmaszimulator\\ember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_15_kocsmaszimulator\\2024_11_15_kocsmaszimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|solutionrelative:2024_11_15_kocsmaszimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_11_15_kocsmaszimulator\\2024_11_15_kocsmaszimulator\\ital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DDF87C-5F24-40B1-9C5A-E94A18BF6993}|2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator.csproj|solutionrelative:2024_11_15_kocsmaszimulator\\ital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ital.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Ital.cs",
+              "RelativeDocumentMoniker": "2024_11_15_Kocsmaszimulator\\Ital.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Ital.cs",
+              "RelativeToolTip": "2024_11_15_Kocsmaszimulator\\Ital.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:22:13.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kocsmaros.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Kocsmaros.cs",
+              "RelativeDocumentMoniker": "2024_11_15_Kocsmaszimulator\\Kocsmaros.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Kocsmaros.cs",
+              "RelativeToolTip": "2024_11_15_Kocsmaszimulator\\Kocsmaros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:06:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ember.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Ember.cs",
+              "RelativeDocumentMoniker": "2024_11_15_Kocsmaszimulator\\Ember.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Ember.cs",
+              "RelativeToolTip": "2024_11_15_Kocsmaszimulator\\Ember.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "2024_11_15_Kocsmaszimulator",
+              "WhenOpened": "2024-11-15T09:50:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Program.cs",
+              "RelativeDocumentMoniker": "2024_11_15_Kocsmaszimulator\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_11_15_Kocsmaszimulator\\2024_11_15_Kocsmaszimulator\\Program.cs",
+              "RelativeToolTip": "2024_11_15_Kocsmaszimulator\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:42:59.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,12 +12,49 @@ namespace _2024_11_08_Szamitogep
         static List<Szamitogep> szamitogepek = new List<Szamitogep>();
 
         static void Main(string[] args)
-        {
+        {      
             Feladat0();
             Fajlbeolvasas();
+            Feladat2();
+            Feladat3();
+            Szamitogep.konyvelo = "";
 
 
             Console.ReadLine();
+        }
+
+        private static void Feladat3()
+        {
+            int index = MaximumIndex();
+            bool sv = szamitogepek[index].bekapcsolva;
+            Console.WriteLine($"{(sv?"Be ":"Ki ")}van kapcsolva");
+            //Console.WriteLine(szamitogepek[index].memoria);
+        }
+
+        private static int MaximumIndex()
+        {
+            int maxi = 0;
+            for (int i = 1; i < szamitogepek.Count; i++) {
+                if (szamitogepek[i].memoria > szamitogepek[maxi].memoria)
+                    maxi = i;
+            }
+            return maxi;
+        }
+
+        private static void Feladat2()
+        {
+            int darab = BekapcsoltGepekDb();
+            Console.WriteLine($"{darab} darab bekapcsolt számítógép van.");
+        }
+
+        private static int BekapcsoltGepekDb()
+        {
+            int db = 0;
+            for (int i = 0; i < szamitogepek.Count; i++) {
+                if (szamitogepek[i].bekapcsolva)
+                    db++;
+            }
+            return db;
         }
 
         private static void Fajlbeolvasas()

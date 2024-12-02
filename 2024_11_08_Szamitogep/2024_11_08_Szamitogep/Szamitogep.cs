@@ -8,6 +8,8 @@ namespace _2024_11_08_Szamitogep
 {
     internal class Szamitogep
     {
+        public static string konyvelo;
+
         // Adattagok
         public double memoria;
         public bool bekapcsolva;

@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.exe
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\bin\Debug\2024_12_02_Pekseg.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.exe
+H:\2024-2025\12.cb AAF 2csop\2024_12_02_Pekseg\2024_12_02_Pekseg\obj\Debug\2024_12_02_Pekseg.pdb
