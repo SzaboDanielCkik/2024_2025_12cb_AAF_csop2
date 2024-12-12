@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_12_02_pekseg\\2024_12_02_pekseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_pekseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_12_02_pekseg\\2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_12_02_pekseg\\2024_12_02_pekseg\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\kave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_12_02_pekseg\\2024_12_02_pekseg\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_pekseg\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\iarlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|h:\\2024-2025\\12.cb aaf 2csop\\2024_12_02_pekseg\\2024_12_02_pekseg\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\pogacsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}|2024_12_02_Pekseg\\2024_12_02_Pekseg.csproj|solutionrelative:2024_12_02_pekseg\\peksutemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pogacsa.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Pogacsa.cs",
+              "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Pogacsa.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Pogacsa.cs",
+              "RelativeToolTip": "2024_12_02_Pekseg\\Pogacsa.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:56:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Kave.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Kave.cs",
+              "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Kave.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Kave.cs",
+              "RelativeToolTip": "2024_12_02_Pekseg\\Kave.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:55:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Peksutemeny.cs",
               "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Peksutemeny.cs",
               "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Peksutemeny.cs",
               "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Peksutemeny.cs",
               "RelativeToolTip": "2024_12_02_Pekseg\\Peksutemeny.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:52:08.722Z",
               "EditorCaption": ""
@@ -56,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Program.cs",
               "RelativeDocumentMoniker": "2024_12_02_Pekseg\\Program.cs",
-              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Program.cs",
-              "RelativeToolTip": "2024_12_02_Pekseg\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ToolTip": "H:\\2024-2025\\12.cb AAF 2csop\\2024_12_02_Pekseg\\2024_12_02_Pekseg\\Program.cs*",
+              "RelativeToolTip": "2024_12_02_Pekseg\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:47:27.711Z",
               "EditorCaption": ""

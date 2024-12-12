@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{542A33AB-4AD6-4F6D-BF22-64DAA4DF9B6D}</ProjectGuid>
+    <ProjectGuid>{62D281DF-FCE3-4400-854A-EDEAD9E43AD8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2024_12_02_Pekseg</RootNamespace>
-    <AssemblyName>2024_12_02_Pekseg</AssemblyName>
+    <RootNamespace>_2024_12_12_Gepjarmu</RootNamespace>
+    <AssemblyName>2024_12_12_Gepjarmu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IArlap.cs" />
-    <Compile Include="Kave.cs" />
-    <Compile Include="Pekseg.cs" />
-    <Compile Include="Peksutemeny.cs" />
-    <Compile Include="Pogacsa.cs" />
+    <Compile Include="AudiS8.cs" />
+    <Compile Include="IKisGepjarmu.cs" />
+    <Compile Include="Jarmu.cs" />
+    <Compile Include="Orszagut.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Robogo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

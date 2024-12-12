@@ -1,0 +1,4 @@
+pogacsa 10 150
+kave habos
+kave nem_habos
+pogacsa 11 120

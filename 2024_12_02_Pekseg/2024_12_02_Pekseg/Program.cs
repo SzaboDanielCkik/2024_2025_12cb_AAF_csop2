@@ -14,6 +14,15 @@ namespace _2024_12_02_Pekseg
 
             //Console.WriteLine(p.ToString());
 
+            //Pogacsa p = new Pogacsa(12, 350);
+            //Console.WriteLine(p.ToString());
+
+            //Kave kv = new Kave(true);
+            //Console.WriteLine(kv);
+
+            Pekseg.Vasarlok("termekek.txt");
+            Pekseg.EtelLeltar();
+
             Console.ReadLine();
         }
     }

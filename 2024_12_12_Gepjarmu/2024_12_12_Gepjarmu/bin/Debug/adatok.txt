@@ -1,0 +1,6 @@
+robogo;"";40;60
+audi;"AAA-111";200;true
+robogo;"";80;65
+audi;"BBB-111";85;false 
+robogo;"";75;91
+audi;"BBB-111";130;false 
