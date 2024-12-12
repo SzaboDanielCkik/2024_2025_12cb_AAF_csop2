@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\obj\Debug\2024_11_20_Szuperhosok.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\obj\Debug\2024_11_20_Szuperhosok.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\bin\Debug\2024_11_20_Szuperhosok.exe.config
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\bin\Debug\2024_11_20_Szuperhosok.exe
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\bin\Debug\2024_11_20_Szuperhosok.pdb
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\obj\Debug\2024_11_20_Szuperhosok.exe
+H:\2024-2025\12.cb AAF 1csop\2024_11_20_Szuperhosok\2024_11_20_Szuperhosok\obj\Debug\2024_11_20_Szuperhosok.pdb
