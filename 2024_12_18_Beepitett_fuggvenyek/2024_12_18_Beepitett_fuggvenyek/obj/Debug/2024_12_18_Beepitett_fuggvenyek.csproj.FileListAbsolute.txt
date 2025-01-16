@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\bin\Debug\2024_12_18_Beepitett_fuggvenyek.exe.config
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\bin\Debug\2024_12_18_Beepitett_fuggvenyek.exe
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\bin\Debug\2024_12_18_Beepitett_fuggvenyek.pdb
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\obj\Debug\2024_12_18_Beepitett_fuggvenyek.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\obj\Debug\2024_12_18_Beepitett_fuggvenyek.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\obj\Debug\2024_12_18_Beepitett_fuggvenyek.exe
+H:\2024-2025\12.cb AAF 2csop\2024_12_18_Beepitett_fuggvenyek\2024_12_18_Beepitett_fuggvenyek\obj\Debug\2024_12_18_Beepitett_fuggvenyek.pdb

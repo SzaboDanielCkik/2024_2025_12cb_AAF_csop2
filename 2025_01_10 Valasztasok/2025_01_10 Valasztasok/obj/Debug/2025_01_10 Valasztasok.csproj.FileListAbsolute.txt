@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\bin\Debug\2025_01_10 Valasztasok.exe.config
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\bin\Debug\2025_01_10 Valasztasok.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\bin\Debug\2025_01_10 Valasztasok.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\obj\Debug\2025_01_10 Valasztasok.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\obj\Debug\2025_01_10 Valasztasok.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\obj\Debug\2025_01_10 Valasztasok.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_10 Valasztasok\2025_01_10 Valasztasok\obj\Debug\2025_01_10 Valasztasok.pdb

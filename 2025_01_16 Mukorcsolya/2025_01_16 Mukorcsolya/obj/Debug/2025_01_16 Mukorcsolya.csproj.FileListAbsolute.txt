@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\bin\Debug\2025_01_16 Mukorcsolya.exe.config
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\bin\Debug\2025_01_16 Mukorcsolya.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\bin\Debug\2025_01_16 Mukorcsolya.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\obj\Debug\2025_01_16 Mukorcsolya.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\obj\Debug\2025_01_16 Mukorcsolya.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\obj\Debug\2025_01_16 Mukorcsolya.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_16 Mukorcsolya\2025_01_16 Mukorcsolya\obj\Debug\2025_01_16 Mukorcsolya.pdb
