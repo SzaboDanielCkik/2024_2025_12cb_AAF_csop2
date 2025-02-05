@@ -1,0 +1,10 @@
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\2025_01_31_FormAlapok.exe.config
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\2025_01_31_FormAlapok.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\bin\Debug\2025_01_31_FormAlapok.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\2025_01_31_FormAlapok.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\_2025_01_31_FormAlapok.Form1.resources
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\_2025_01_31_FormAlapok.Properties.Resources.resources
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\2025_01_31_FormAlapok.csproj.GenerateResource.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\2025_01_31_FormAlapok.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\2025_01_31_FormAlapok.exe
+H:\2024-2025\12.cb AAF 2csop\2025_01_31_FormAlapok\2025_01_31_FormAlapok\obj\Debug\2025_01_31_FormAlapok.pdb
